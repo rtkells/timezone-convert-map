@@ -1,6 +1,9 @@
 # Timezone Converter
 
 This application aims to make the process of converting between timezones less confusing through visualization. The user can pick two points on the map and click "calculate" to display the current times in each location. Then, if needed, the user can edit either calculated timestamp to instantly calculate different times.
+
+Please keep in mind, this application can only display and convert times given in the 24 hour format (for now). (ex: if you want to type in 5:34 PM, you will need to type in 17:34)
+
 # Usage
 
 This project is available on [github pages!](https://rtkells.github.io/timezone-convert-map/) The setup below only applies if you would like to use this project locally.
